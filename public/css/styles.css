@@ -1,0 +1,28 @@
+* {
+    font-family: "Roboto";
+}
+
+.row {
+    margin-top: 10%;
+    padding: 5%;
+    gap: 30px;
+}
+
+.rodape {
+    text-align: center;
+}
+
+.dashboard-buttons {
+    text-align: center;
+}
+
+#forms {
+    gap: 30px;
+}
+
+.buttons {
+    display: flex;
+    padding-top: 20px;
+    justify-content: space-between;
+    align-items: center;
+}
